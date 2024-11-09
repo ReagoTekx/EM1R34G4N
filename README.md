@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EM1R34G4N
-- 👀 I’m a Cybersecurity Enthusiast.
+- 👀 I’m a Cybersecurity Enthusiast (Security ANalyst).
 - 🌱 I’m currently learning about Blue Teaming.
 - 💞️ I’m looking to collaborate on Cybersecurity and AI/ML staffs.
 - 📫 How to reach me, never mind 😊
